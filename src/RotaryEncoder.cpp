@@ -107,6 +107,7 @@ namespace RotaryEncoder
                 return Down;
             }
         }
+        return NoTurn;
     }
 
     e_pushVal checkPush()
